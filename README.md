@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @stephenlee91
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python, Java, and C
-- 💞️ I’m attending University of California, Irvine
+- 👋 Hi, my name is Stephen Lee
+- 🌱 I have experience with Python, C++, Java, C, MIPS Assembly, JavaScript, HTML, CSS, and the Git command line
+- 💞️ I’m currently studying Computer Science at the University of California, Irvine
 - 📫 My email is stephenlee91@gmail.com
 
 <!---
